@@ -1,0 +1,9 @@
+Epoch 1/25
+----------
+train Loss: 2.7309 Acc: 0.1582
+test Loss: 2.5193 Acc: 0.2208
+
+Epoch 25/25
+----------
+train Loss: 2.2336 Acc: 0.3158
+test Loss: 2.0787 Acc: 0.3686

@@ -1,0 +1,11 @@
+Epoch 1/25
+----------
+train Loss: 2.1669 Acc: 0.3436
+test Loss: 1.7954 Acc: 0.4454
+
+Epoch 25/25
+----------
+train Loss: 0.8478 Acc: 0.7374
+test Loss: 0.8678 Acc: 0.7382
+
+Training complete in 82m 4s
